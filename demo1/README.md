@@ -10,7 +10,7 @@ $ docker run -d -p 4001:5001 --name flask_app flask_service
 # Post this - check the service on localhost:4001
 # The output will show that redis connection is broken and you will see following error message -
 ```
-![alt text](https://github.com/inovizz/demystifying-docker-for-devs/blob/master/woredis%20(1).png)<br>
+![alt text](https://github.com/inovizz/containarized-development/blob/master/woredis%20(1).png)<br>
 
 ## Setup Redis Container
 
@@ -31,7 +31,7 @@ $ docker run -d -p 4001:5001 --name flask_app --link redis:redis flask_service
 # Post this - check the service on localhost:4001
 # It shall return you following output
 ```
-![alt text](https://github.com/inovizz/demystifying-docker-for-devs/blob/master/wredis.png)<br>
+![alt text](https://github.com/inovizz/containarized-development/blob/master/wredis.png)<br>
 
 
 ## Link Celery service container w/ Redis Container
