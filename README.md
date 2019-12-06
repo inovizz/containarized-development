@@ -5,7 +5,7 @@
 * Install Docker - https://docs.docker.com/install/ (latest version)
 * Install Docker Compose - https://docs.docker.com/compose/install/ (latest version)
 * Post that try running this command from CLI - "docker ps"
-![alt text](https://github.com/inovizz/containarized-developments/blob/master/dockerps.png)<br>
+![alt text](https://github.com/inovizz/containarized-development/blob/master/dockerps.png)<br>
 Above command shall return this output and show that no containers are running right now
 * Though installing Python is not required for the demos but in case if we plan to experiment something on the local machine, then please use this link to install Python - https://www.python.org/downloads/ (Python 3.5+)
 * Please bring your laptop to try out things on the fly. However, because of any reason if you are not able to get your laptop. I'll provide detailed documentation for you to try things at home.
@@ -19,7 +19,7 @@ Above command shall return this output and show that no containers are running r
 
 Please go through with these links for respective demos covered in slides -
 
-* [Demo1](https://github.com/inovizz/containarized-developments/blob/master/demo1/README.md)
-* [Demo2](https://github.com/inovizz/containarized-developments/blob/master/demo2/README.md)
-* [Demo3](https://github.com/inovizz/containarized-developments/blob/master/demo3/README.md)
-* [Demo4](https://github.com/inovizz/containarized-developments/blob/master/demo4/README.md)
+* [Demo1](https://github.com/inovizz/containarized-development/blob/master/demo1/README.md)
+* [Demo2](https://github.com/inovizz/containarized-development/blob/master/demo2/README.md)
+* [Demo3](https://github.com/inovizz/containarized-development/blob/master/demo3/README.md)
+* [Demo4](https://github.com/inovizz/containarized-development/blob/master/demo4/README.md)
